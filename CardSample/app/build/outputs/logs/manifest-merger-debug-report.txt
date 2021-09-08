@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:18:1-80:12
+MERGED from [androidx.databinding:databinding-adapters:4.0.2] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\a0314fd1effd06dab123c7622dff1982\databinding-adapters-4.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.0.2] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\7f41a96b3700b1024bd30af237d8da9c\databinding-runtime-4.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [:main] C:\Users\agrawalsaloni\glass-enterprise-samples\GestureLibrarySample\main\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\1ef924efab08b3146d742a582288a3ab\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\ac1c34ca4c56f0525154e3fb43c76b9f\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\7e2da3d8c8e4d9bac3c0a280ebda231f\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\0398b1b03ca4c37b37b8da2dc3d64671\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\b50b19bb3cc5bbe5ae732a4359732694\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\81a1a1a1cfb32079dff742df421cc0ee\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\e9ad9b66f11110058add2bdb0ba3f318\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\15b9f61e79e041634a7ad1304863f33a\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\eac77e170f11d4dce91d33952c35edbd\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\f44ade993c8621f195e2b33c200c848e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\02653bbbc6a88e90772471c24ab0773d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\06ce8f5fe67492867b71351b3e484360\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\b75e271b09e2eda4af375434aad0deea\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\af56ac4817a1285c13654c4f7f6784ca\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\cc5243b04435f4d1b574b8e0912fa586\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\67aca8e7943b5568294383fd6221a674\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\eebee08fdb38bda4cb751fa667243709\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\8d09ebcaff9966f7bd5fe0131f1ff610\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\3faadedacb88d5f9c0fcddf105344b1f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:4.0.2] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\62c71f4acb9425fa0d26bb54c7dad3a9\jetified-viewbinding-4.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\fbbfc9de7eb33a98e72507bd2316186d\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\caf66e31fe04c15ffa23c29730dd35b4\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\f27a0b1006568a23d51f9e166959ded2\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\8378ed7ecbf6dc03c7f4df34dc210e4a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\9a0d685a206626485ce8d2f51150b72c\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\427935850b5c6b3ed7ecaef2d27503b4\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\b20212ba83d215b185d70acbf1ab1386\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\eb3155331804fc679be7dbad64c349b9\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\9a00c76239e42cc689ec69b23b56bf57\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\17d9126861304e3b040e684109fb1fc4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:18:1-80:12
+	package
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:18:1-80:12
+		INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:18:1-80:12
+		INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:20:3-65
+	android:name
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:20:20-62
+application
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:21:3-78:17
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\1ef924efab08b3146d742a582288a3ab\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\1ef924efab08b3146d742a582288a3ab\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\0398b1b03ca4c37b37b8da2dc3d64671\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\0398b1b03ca4c37b37b8da2dc3d64671\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\8d09ebcaff9966f7bd5fe0131f1ff610\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\8d09ebcaff9966f7bd5fe0131f1ff610\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\caf66e31fe04c15ffa23c29730dd35b4\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\caf66e31fe04c15ffa23c29730dd35b4\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\8d09ebcaff9966f7bd5fe0131f1ff610\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:26:7-33
+	android:label
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:24:7-29
+	android:roundIcon
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:25:7-46
+	android:icon
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:23:7-41
+	android:allowBackup
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:22:7-33
+	android:theme
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:27:7-38
+meta-data#com.google.android.glass.TouchEnabledApplication
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:38:5-40:32
+	android:value
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:40:9-29
+	android:name
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:39:9-72
+activity#com.example.android.glass.cardsample.MainActivity
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:42:5-49:16
+	android:name
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:42:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.google.android.glass.category.DIRECTORY
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:43:7-48:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:44:9-60
+	android:name
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:44:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:46:9-68
+	android:name
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:46:19-66
+category#com.google.android.glass.category.DIRECTORY
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:47:9-79
+	android:name
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:47:19-77
+activity#com.example.android.glass.cardsample.fragments.DashboardTiles
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:51:5-58:16
+	android:name
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:51:15-91
+activity#com.example.android.glass.cardsample.fragments.DashboardContent
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:60:5-67:16
+	android:name
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:60:15-93
+activity#com.example.android.glass.cardsample.menu.MenuActivity
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:69:5-77:16
+	android:theme
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:71:9-41
+	android:name
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:70:9-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:72:7-76:23
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:75:9-67
+	android:name
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml:75:19-65
+uses-sdk
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.0.2] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\a0314fd1effd06dab123c7622dff1982\databinding-adapters-4.0.2\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.0.2] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\a0314fd1effd06dab123c7622dff1982\databinding-adapters-4.0.2\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.2] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\7f41a96b3700b1024bd30af237d8da9c\databinding-runtime-4.0.2\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.2] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\7f41a96b3700b1024bd30af237d8da9c\databinding-runtime-4.0.2\AndroidManifest.xml:22:5-44
+MERGED from [:main] C:\Users\agrawalsaloni\glass-enterprise-samples\GestureLibrarySample\main\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-24:41
+MERGED from [:main] C:\Users\agrawalsaloni\glass-enterprise-samples\GestureLibrarySample\main\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\1ef924efab08b3146d742a582288a3ab\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\1ef924efab08b3146d742a582288a3ab\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\ac1c34ca4c56f0525154e3fb43c76b9f\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\ac1c34ca4c56f0525154e3fb43c76b9f\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\7e2da3d8c8e4d9bac3c0a280ebda231f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\7e2da3d8c8e4d9bac3c0a280ebda231f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\0398b1b03ca4c37b37b8da2dc3d64671\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\0398b1b03ca4c37b37b8da2dc3d64671\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\b50b19bb3cc5bbe5ae732a4359732694\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\b50b19bb3cc5bbe5ae732a4359732694\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\81a1a1a1cfb32079dff742df421cc0ee\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\81a1a1a1cfb32079dff742df421cc0ee\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\e9ad9b66f11110058add2bdb0ba3f318\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\e9ad9b66f11110058add2bdb0ba3f318\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\15b9f61e79e041634a7ad1304863f33a\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\15b9f61e79e041634a7ad1304863f33a\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\eac77e170f11d4dce91d33952c35edbd\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\eac77e170f11d4dce91d33952c35edbd\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\f44ade993c8621f195e2b33c200c848e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\f44ade993c8621f195e2b33c200c848e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\02653bbbc6a88e90772471c24ab0773d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\02653bbbc6a88e90772471c24ab0773d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\06ce8f5fe67492867b71351b3e484360\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\06ce8f5fe67492867b71351b3e484360\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\b75e271b09e2eda4af375434aad0deea\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\b75e271b09e2eda4af375434aad0deea\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\af56ac4817a1285c13654c4f7f6784ca\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\af56ac4817a1285c13654c4f7f6784ca\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\cc5243b04435f4d1b574b8e0912fa586\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\cc5243b04435f4d1b574b8e0912fa586\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\67aca8e7943b5568294383fd6221a674\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\67aca8e7943b5568294383fd6221a674\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\eebee08fdb38bda4cb751fa667243709\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\eebee08fdb38bda4cb751fa667243709\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\8d09ebcaff9966f7bd5fe0131f1ff610\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\8d09ebcaff9966f7bd5fe0131f1ff610\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\3faadedacb88d5f9c0fcddf105344b1f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\3faadedacb88d5f9c0fcddf105344b1f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.2] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\62c71f4acb9425fa0d26bb54c7dad3a9\jetified-viewbinding-4.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.2] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\62c71f4acb9425fa0d26bb54c7dad3a9\jetified-viewbinding-4.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\fbbfc9de7eb33a98e72507bd2316186d\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\fbbfc9de7eb33a98e72507bd2316186d\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\caf66e31fe04c15ffa23c29730dd35b4\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\caf66e31fe04c15ffa23c29730dd35b4\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\f27a0b1006568a23d51f9e166959ded2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\f27a0b1006568a23d51f9e166959ded2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\8378ed7ecbf6dc03c7f4df34dc210e4a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\8378ed7ecbf6dc03c7f4df34dc210e4a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\9a0d685a206626485ce8d2f51150b72c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\9a0d685a206626485ce8d2f51150b72c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\427935850b5c6b3ed7ecaef2d27503b4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\427935850b5c6b3ed7ecaef2d27503b4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\b20212ba83d215b185d70acbf1ab1386\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\b20212ba83d215b185d70acbf1ab1386\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\eb3155331804fc679be7dbad64c349b9\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\eb3155331804fc679be7dbad64c349b9\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\9a00c76239e42cc689ec69b23b56bf57\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\9a00c76239e42cc689ec69b23b56bf57\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\17d9126861304e3b040e684109fb1fc4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\agrawalsaloni\.gradle\caches\transforms-2\files-2.1\17d9126861304e3b040e684109fb1fc4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agrawalsaloni\glass-enterprise-samples\CardSample\app\src\main\AndroidManifest.xml

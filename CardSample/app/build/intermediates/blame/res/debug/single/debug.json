@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_looker_icon.jpg.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\looker_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dash1.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\dash1.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_style.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\ic_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_looker.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\looker.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dash_72.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\dash_72.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_analytics_24.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\ic_baseline_analytics_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_dot.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\indicator_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_linechart.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\layout\\fragment_linechart.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_save.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_selected_dot.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\indicator_selected_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dash.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dash.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_page_indicator_selector.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\page_indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_pager_layout.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\layout\\view_pager_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dash.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable-hdpi\\ic_dash.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dash.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_dash.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_layout.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\layout\\menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_verticalbarchart.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\layout\\fragment_verticalbarchart.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_looker_nobg.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\looker_nobg.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_layout.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\layout\\main_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dash72small.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\dash72small.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_left_column_layout.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\layout\\left_column_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dash.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_dash.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dash2.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\dash2.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dash.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\dash.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dash.png.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable-mdpi\\ic_dash.png"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_item.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_button.xml.flat",
+        "source": "C:\\Users\\agrawalsaloni\\glass-enterprise-samples\\CardSample\\app\\src\\main\\res\\layout\\button.xml"
+    }
+]
